@@ -1,4 +1,13 @@
 ## Software Crisis
 - Development in the Software Technology continue to be dynamic, complex.
+- Most of the software required modification due to the change in user requirements and data formats.
+- These studies showed that software products should be evaluated carefully for their quality before they are delivered and implemented. Some of the quality issues that must be considered for critical evaluation are:
+  - Correctness
+  - Maintainability
+  - Reusability
+  - Openness and interpolation
+  - Portability
+  - Security
+  - Integrity
+  - User friendliness
 - This forced softare engineers and industry to look for new approaches to software design and development.
-- 
