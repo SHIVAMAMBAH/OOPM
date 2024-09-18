@@ -11,3 +11,10 @@
   - Integrity
   - User friendliness
 - This forced softare engineers and industry to look for new approaches to software design and development.
+
+## Software Evolution
+
+**Ernest Tello**, a well-known writer in the field of AI, compared the evolution of softare technology to the growth of a tree. Like a tree, the software evolution has had distinct phases or "layers" of growth. These layers were built up one by one over the last five decades with each layer representing an improvement over the previous one. 
+However, the analogy fails if we consider the life of these layers. In software systems, each of the layers continues to be functional, whereas in the case of tree, only the uppermost layer is functionl.
+
+
