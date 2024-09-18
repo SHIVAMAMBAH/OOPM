@@ -1,7 +1,7 @@
 ## Software Crisis
 - Development in the Software Technology continue to be dynamic, complex.
 - Most of the software required modification due to the change in user requirements and data formats.
-- These studies showed that software products should be evaluated carefully for their quality before they are delivered and implemented. Some of the quality issues that must be considered for critical evaluation are:
+- Many studies showed that software products should be evaluated carefully for their quality before they are delivered and implemented. Some of the quality issues that must be considered for critical evaluation are:
   - Correctness
   - Maintainability
   - Reusability
@@ -19,3 +19,8 @@ However, the analogy fails if we consider the life of these layers. In software 
 
 **Alan Kay**, one of the promoters of Object oriented paradigm and the principal designer of Smalltalk, has said : "*Complexity increases, architecture dominates the basic material*". To build today's complex software, it is just not enough to put together a sequence of programming statements and sets of procedures and modules; we need to incorporate sound construction techniques and program structures that are easy to comprehend, implement and modify.
 
+Since the invention of the computer, many programming aproaches have been tried. These include techniques such as *modular programming*, *top-down programming*,*bottom-up pgogramming* and *structured programming*. The primary motivation in each has been the concern to handle the increasing complexity of program that are reliable and maintaibable. These techniques have become popular among programmers over the last two decades.
+
+with the advent of languages such as C, structured programming became very popular and was the main technique in the 1980s. Structured programming was a powerful tool that enabled programmers to write moderately complex programs fairly easily. However, as the program grew larger, even the structured approach failed to show the desired results in terms of bug-free, easy to maintain, and usable programs.
+
+OOP is a approach to program organization and development that attempts to eliminate some of the pitfalls of conventional programming methods by incorporating the best of structured programming features with several powerful new concepts. It is a new way of organizing and developing programs and has nothing to do with the particular language. However, not all language are suitable to implement the OOP concepts easily.
