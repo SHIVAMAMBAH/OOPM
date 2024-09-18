@@ -23,4 +23,7 @@ Since the invention of the computer, many programming aproaches have been tried.
 
 with the advent of languages such as C, structured programming became very popular and was the main technique in the 1980s. Structured programming was a powerful tool that enabled programmers to write moderately complex programs fairly easily. However, as the program grew larger, even the structured approach failed to show the desired results in terms of bug-free, easy to maintain, and usable programs.
 
-OOP is a approach to program organization and development that attempts to eliminate some of the pitfalls of conventional programming methods by incorporating the best of structured programming features with several powerful new concepts. It is a new way of organizing and developing programs and has nothing to do with the particular language. However, not all language are suitable to implement the OOP concepts easily.
+**OOP** is a approach to program organization and development that attempts to eliminate some of the pitfalls of conventional programming methods by incorporating the best of structured programming features with several powerful new concepts. It is a new way of organizing and developing programs and has nothing to do with the particular language. However, not all language are suitable to implement the OOP concepts easily.
+
+## A look at Procedure-Oriented Programming
+Conventional programming, using high levelprogramming such as C, is commonly known as *procedure-oriented programming*(POP). In the procedure-oriented programming approach, the problem is seen as a sequence of thinigs to be done such as reading, calculating and printing. A number of functions are written to acccomplish these tasks. The primary focus is on functions.
